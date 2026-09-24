@@ -1,8 +1,16 @@
-# Password-Cracking-with-John-the-Ripper-and-Networkwalks-tools-Week-3-Project-Task-Lab-
+<div align="center">
+
+### 🛡️ CYBERSECURITY • ETHICAL HACKING • PASSWORD SECURITY
+
+**Learn → Practice → Analyze → Document → Secure**
+
+---
+
 A hands-on internship project covering password recovery of a protected PDF file using two different approaches: John the Ripper (JTR), and the Networkwalks online Hash Calculator &amp; Password Cracker tools.
 
 ![Skill](https://img.shields.io/badge/Skill-Cybersecurity-red) ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-JTR-blue) ![Johnny](https://img.shields.io/badge/Johnny-GUI-lightgrey) ![Networkwalks Tools](https://img.shields.io/badge/Networkwalks-Tools-lightgrey) ![Skill](https://img.shields.io/badge/Skill-Password%20Cracking-red) ![Skill](https://img.shields.io/badge/Skill-Hash%20Extraction-red) ![Ethical Hacking](https://img.shields.io/badge/Ethical-Hacking-orange) ![Networkwalks](https://img.shields.io/badge/Networkwalks-grey) ![Author](https://img.shields.io/badge/Author-Josiah%20Ayuba-red)
 
+</div>
 
 ## 📌 About This Project
 
