@@ -110,3 +110,5 @@ The recovered password was used to open the protected PDF.
 Successful opening of the PDF provided verification that the password-recovery process had produced the expected result.
 
 ---
+### 🔹 Screenshot Evidence Using JTR
+
