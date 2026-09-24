@@ -112,3 +112,4 @@ Successful opening of the PDF provided verification that the password-recovery p
 ---
 ### 🔹 Screenshot Evidence Using JTR
 
+![]
